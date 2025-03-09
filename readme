@@ -2,3 +2,6 @@ docker stop flask-tomato-app
 docker rm flask-tomato-app
 docker build -t flask-tomato-app .
 docker run -p 5000:5000 -v $(pwd)/static/uploads:/app/static/uploads flask-tomato-app
+
+
+using Teachable Machine
