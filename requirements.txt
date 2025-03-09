@@ -1,0 +1,5 @@
+Flask
+tensorflow
+matplotlib
+numpy
+pillow
